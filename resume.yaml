@@ -1,20 +1,21 @@
 contact:
     name: Harper Reed
     email: 'harper@nata2.org'
-    page: '[harperreed.com](https://harperreed.com)'
-    github: '[github.com/harperreed](https://github.com/harperreed)'
+    page: '[dylanreed.com](https://dylanreed.com)'
+    github: '[github.com/dylanreed](https://github.com/dylanreed)'
     linkedin: '[linkedin.com/in/harperreed](http://www.linkedin.com/in/harperreed)'
-    twitter: '[@harper](http://twitter.com/harper)'
+    twitter: '[@dylanreed](http://twitter.com/dylanreed)'
 
 work:
 
-    - employer: Paypal, Inc
-      title: Director, Software Development
-      location: 'Chicago, Il'
-      dates: August 2015 - Present
-      note: Through the acquisition of Modest, inc by Paypal, Harper joined the Braintree team to help lead the commerce initiatives
+    - employer: The Evangelical Lutheran Society
+      title: Admissions Coordinator
+      location: 'Greeley, CO'
+      dates: October 2014 - Present
+      note: Assist with the Admission of residents in to a long term care facility
       description:
-        - 'Stay tuned.'
+        - 'Assist families with the transition to LTC.'
+        - '
 
     - employer: Modest, Inc
       title: Founder / Chief Executive Officer
