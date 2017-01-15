@@ -1,13 +1,12 @@
 contact:
-    name: Harper Reed
-    email: 'harper@nata2.org'
+    name: Dylan Reed
+    email: 'dylan@dylanreed.com'
     page: '[dylanreed.com](https://dylanreed.com)'
     github: '[github.com/dylanreed](https://github.com/dylanreed)'
     linkedin: '[linkedin.com/in/harperreed](http://www.linkedin.com/in/harperreed)'
     twitter: '[@dylanreed](http://twitter.com/dylanreed)'
 
 work:
-
     - employer: The Evangelical Lutheran Society
       title: Admissions Coordinator
       location: 'Greeley, CO'
